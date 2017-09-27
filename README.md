@@ -15,3 +15,8 @@ This is just a sample win forms application to explain the Events concept and sh
 [Events & Delegates In C# - The Concept](http://developmentsimplyput.blogspot.com/2012/09/events-delegates-in-c-concept.html)
 
 And finally, you can check [this blog post](http://developmentsimplyput.blogspot.com/2012/09/events-delegates-in-c-win-forms-controls.html) to see how the current solution is built from scratch step by step.
+
+<br/>
+
+## Authors:
+* [Ahmed Tarek Hasan](https://linkedin.com/in/atarekhasan)
